@@ -2,9 +2,9 @@
 "Feane", A fully responsive Fast Food Restaurant landing page developed using HTML5, CSS3, and Bootstrap 5. Based on the "Feane" design by ThemeWagon.
 
 # Feane - Fast Food Restaurant Website 🍔
-visit link : https://iumar-0.github.io/Food-Restaurant/
 Feane is a clean, modern, and responsive landing page for a restaurant business. This project was built to practice front-end development skills, focusing on Bootstrap 5 layouts, responsive navigation, and UI/UX implementation.
 
+visit link : https://iumar-0.github.io/Food-Restaurant/
 ## ✨ Features
 * **Fully Responsive:** Works perfectly on mobile, tablet, and desktop devices.
 * **Interactive Menu:** Categorized food sections for easy browsing.
